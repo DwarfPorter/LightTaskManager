@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "393886943078",
+    "firebase_url": "https://light-task-manager-61628.firebaseio.com",
+    "project_id": "light-task-manager-61628",
+    "storage_bucket": "light-task-manager-61628.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393886943078:android:d67140d98c7234c6a2eaa7",
+        "android_client_info": {
+          "package_name": "com.niww.lighttaskmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393886943078-9lioaup5ue15i5lo997i918lgd05kt10.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.niww.lighttaskmanager",
+            "certificate_hash": "dc12669ffe16a29f465b922a2a24f1479d9462fb"
+          }
+        },
+        {
+          "client_id": "393886943078-l6a25h1vb65n2fksbej9luo8sa2tmbdu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoU4kYHcUuIfFeyIkFE_h0XZDDYl2d1ho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393886943078-l6a25h1vb65n2fksbej9luo8sa2tmbdu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
