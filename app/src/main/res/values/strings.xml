@@ -3,4 +3,5 @@
     <string name="tab_text_1">Список задач</string>
     <string name="tab_text_2">В процессе</string>
     <string name="tab_text_3">Сделано</string>
+    <string name="sign_in">Войти</string>
 </resources>
