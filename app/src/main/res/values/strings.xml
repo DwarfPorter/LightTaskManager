@@ -4,4 +4,8 @@
     <string name="tab_text_2">В процессе</string>
     <string name="tab_text_3">Сделано</string>
     <string name="sign_in">Войти</string>
+
+    <string name="title_profile">Profile</string>
+    <string name="title_chat">Chat</string>
+    <string name="title_task_list">Task list</string>
 </resources>

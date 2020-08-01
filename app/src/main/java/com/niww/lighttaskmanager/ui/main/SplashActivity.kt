@@ -1,9 +1,10 @@
-package com.niww.lighttaskmanager
+package com.niww.lighttaskmanager.ui.main
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import com.google.firebase.auth.FirebaseAuth
+
 /**
  * SplashActivity
  * **/

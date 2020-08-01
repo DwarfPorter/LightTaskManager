@@ -1,4 +1,4 @@
-package com.niww.lighttaskmanager
+package com.niww.lighttaskmanager.ui.main
 
 import android.app.Activity
 import android.content.Intent
@@ -6,6 +6,7 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
 import com.firebase.ui.auth.AuthUI
+import com.niww.lighttaskmanager.R
 
 class AuthorizationActivity : AppCompatActivity() {
 
