@@ -4,6 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:gravity="center"
+    android:orientation="vertical"
     tools:ignore="MissingDefaultResource">
 
     <TextView
@@ -11,5 +12,11 @@
         android:layout_height="wrap_content"
         android:text="Task List Fragment"
         android:textSize="20dp" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/task_list_recyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        />
 
 </LinearLayout>
