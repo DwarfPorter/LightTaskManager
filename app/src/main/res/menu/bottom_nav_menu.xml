@@ -3,7 +3,7 @@
 
     <item
         android:id="@+id/navigation_profile"
-        android:icon="@drawable/ic_person_outline_white_24dp"
+        android:icon="@drawable/ic_baseline_person_outline_24"
         android:title="@string/title_profile" />
 
     <item

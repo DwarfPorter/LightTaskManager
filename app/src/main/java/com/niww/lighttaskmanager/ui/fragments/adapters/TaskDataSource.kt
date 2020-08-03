@@ -9,7 +9,7 @@ class TaskDataSource(val repo:TaskRepository): PositionalDataSource<Task>() {
 
     override fun loadRange(params: LoadRangeParams, callback: LoadRangeCallback<Task>) {
 
-        Thread.sleep(3000)
+        Thread.sleep(100)
         println("запрос дополнительных данных ; позиция начальная = " + params.startPosition + " ; кол-во = " + params.loadSize)
 
         val startPosition = params.startPosition
@@ -44,7 +44,7 @@ class TaskDataSource(val repo:TaskRepository): PositionalDataSource<Task>() {
         val loadSize = params.requestedLoadSize
         val pageSize =params.pageSize
 
-        Thread.sleep(3000)
+        Thread.sleep(100)
 
         val list = mutableListOf<Task>()
 

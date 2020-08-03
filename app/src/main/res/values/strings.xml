@@ -8,4 +8,12 @@
     <string name="title_profile">Profile</string>
     <string name="title_chat">Chat</string>
     <string name="title_task_list">Task list</string>
+    <string name="task_id_title">id: </string>
+    <string name="task_name_title">Задача: </string>
+    <string name="task_implementer_title">Исполнитель: </string>
+    <string name="task_dueDate_title">Срок: </string>
+    <string name="task_statusToDo_title">Сделать</string>
+    <string name="task_statusDoing_title">Выполняется</string>
+    <string name="task_statusDone_title">Готово</string>
+
 </resources>
